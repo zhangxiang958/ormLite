@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/zhangxiang958/ormLite#readme",
   "dependencies": {
+    "config": "^2.0.1",
     "debug": "^3.1.0"
   }
 }
